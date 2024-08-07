@@ -1,10 +1,10 @@
-streamlit
 langchain
 PyPDF2
 openai
 wave
 tiktoken
 nltk
+streamlit
 #azure-cognitiveservices-speech
 audio_recorder_streamlit
 streamlit-option-menu
