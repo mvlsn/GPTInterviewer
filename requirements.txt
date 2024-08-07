@@ -1,5 +1,4 @@
-wheel
-Pillow
+Pillow==6.2.0
 langchain
 PyPDF2
 openai
