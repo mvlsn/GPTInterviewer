@@ -1,9 +1,9 @@
-Pillow==8.4.0
+streamlit
+pillow
 langchain
 PyPDF2
 openai
 wave
-streamlit==1.25.0
 tiktoken
 nltk
 #azure-cognitiveservices-speech
